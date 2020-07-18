@@ -30,6 +30,10 @@ To uninstall **synthwaveBLACK** (removing it from the list of available Themes),
 `rstudioapi::removeTheme("SynthwaveBLACK")`
 
 
+## Issues
+If any areas of the theme seem off/weird, feel free to let me know under the `Issues` tab.
+
+
 ## Citation
 I've copied and made extremely minor changes to the [README.MD of the Synthwave85 RStudio theme](https://github.com/jnolis/synthwave85/blob/master/readme.md).
 The wording and format in which the information was provided was good, so I saw no reason to change it.
